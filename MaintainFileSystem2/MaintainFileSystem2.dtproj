@@ -13,7 +13,16 @@
   <DataSourceViews />
   <MiningModels />
   <Roles />
-  <Miscellaneous />
+  <Miscellaneous>
+    <ProjectItem>
+      <Name>CreateTableCleanupFilePath.sql</Name>
+      <FullPath>CreateTableCleanupFilePath.sql</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>fn_ParseCSVString.sql</Name>
+      <FullPath>fn_ParseCSVString.sql</FullPath>
+    </ProjectItem>
+  </Miscellaneous>
   <Configurations>
     <Configuration>
       <Name>Development</Name>
@@ -27,9 +36,14 @@
     </Configuration>
   </Configurations>
   <DTSPackages>
-    <DtsPackage FormatVersion="3">
-      <Name>Package.dtsx</Name>
-      <FullPath>Package.dtsx</FullPath>
+    <DtsPackage FormatVersion="0">
+      <Name>ArchiveMonthlyFiles.dtsx</Name>
+      <FullPath>ArchiveMonthlyFiles.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage FormatVersion="0">
+      <Name>MaintainFileSystem.dtsx</Name>
+      <FullPath>MaintainFileSystem.dtsx</FullPath>
       <References />
     </DtsPackage>
   </DTSPackages>
