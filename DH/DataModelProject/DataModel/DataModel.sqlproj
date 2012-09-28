@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <Name>DataModel</Name>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectVersion>4.1</ProjectVersion>
+    <ProjectGuid>{5e9e9a5b-eb9c-4e0a-ad09-36bbccb0dc0d}</ProjectGuid>
+    <DSP>Microsoft.Data.Tools.Schema.Sql.Sql100DatabaseSchemaProvider</DSP>
+    <OutputType>Database</OutputType>
+    <RootPath>
+    </RootPath>
+    <RootNamespace>DataModel</RootNamespace>
+    <AssemblyName>DataModel</AssemblyName>
+    <ModelCollation>1033, CI</ModelCollation>
+    <DefaultFileStructure>BySchemaAndSchemaType</DefaultFileStructure>
+    <DeployToDatabase>True</DeployToDatabase>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetLanguage>CS</TargetLanguage>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <SqlServerVerification>False</SqlServerVerification>
+    <TargetDatabaseSet>True</TargetDatabaseSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <BuildScriptName>$(MSBuildProjectName).sql</BuildScriptName>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <BuildScriptName>$(MSBuildProjectName).sql</BuildScriptName>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <!-- VS10 without SP1 will not have VisualStudioVersion set, so do that here -->
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <!-- Default to the v10.0 targets path if the targets file for the current VS version is not found -->
+    <SSDTExists Condition="Exists('$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets')">True</SSDTExists>
+    <VisualStudioVersion Condition="'$(SSDTExists)' == ''">10.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
+  <ItemGroup>
+    <Folder Include="Properties" />
+    <Folder Include="dbo\" />
+    <Folder Include="dbo\Tables\" />
+    <Folder Include="Protected\" />
+    <Folder Include="Protected\Tables\" />
+    <Folder Include="Security\" />
+    <Folder Include="Scripts\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Build Include="dbo\Tables\Antigen.sql" />
+    <Build Include="dbo\Tables\AntigenContraindication.sql" />
+    <Build Include="dbo\Tables\Birth.sql" />
+    <Build Include="dbo\Tables\DataSource.sql" />
+    <Build Include="dbo\Tables\Death.sql" />
+    <Build Include="dbo\Tables\Diagnosis.sql" />
+    <Build Include="dbo\Tables\EducationLevel.sql" />
+    <Build Include="dbo\Tables\Encounter.sql" />
+    <Build Include="dbo\Tables\Ethnicity.sql" />
+    <Build Include="dbo\Tables\FinancialTransaction.sql" />
+    <Build Include="dbo\Tables\GeographicRegion.sql" />
+    <Build Include="dbo\Tables\GeographicRegionType.sql" />
+    <Build Include="dbo\Tables\HealthcareActivity.sql" />
+    <Build Include="dbo\Tables\HealthcareActivityRelationship.sql" />
+    <Build Include="dbo\Tables\HouseholdSize.sql" />
+    <Build Include="dbo\Tables\Immunization.sql" />
+    <Build Include="dbo\Tables\ImmunizationContraindication.sql" />
+    <Build Include="dbo\Tables\ImmunizationPriorityGroup.sql" />
+    <Build Include="dbo\Tables\IncomeLevel.sql" />
+    <Build Include="dbo\Tables\Inquiry.sql" />
+    <Build Include="dbo\Tables\Language.sql" />
+    <Build Include="dbo\Tables\Observation.sql" />
+    <Build Include="dbo\Tables\ObservedImmunizationAdverseReaction.sql" />
+    <Build Include="dbo\Tables\ObservedImmunizationContraindication.sql" />
+    <Build Include="dbo\Tables\ObservedReportableDisease.sql" />
+    <Build Include="dbo\Tables\Organization.sql" />
+    <Build Include="dbo\Tables\PayerSource.sql" />
+    <Build Include="dbo\Tables\PersonGeoRegion.sql" />
+    <Build Include="dbo\Tables\PersonRelationship.sql" />
+    <Build Include="dbo\Tables\PopulationStatistics.sql" />
+    <Build Include="dbo\Tables\PovertyLevel.sql" />
+    <Build Include="dbo\Tables\Procedure.sql" />
+    <Build Include="dbo\Tables\Program.sql" />
+    <Build Include="dbo\Tables\Provider.sql" />
+    <Build Include="dbo\Tables\PublicHealthCase.sql" />
+    <Build Include="dbo\Tables\PublicHealthEvent.sql" />
+    <Build Include="dbo\Tables\PublicHealthOutbreak.sql" />
+    <Build Include="dbo\Tables\Race.sql" />
+    <Build Include="dbo\Tables\ReportableDisease.sql" />
+    <Build Include="dbo\Tables\Sex.sql" />
+    <Build Include="dbo\Tables\Site.sql" />
+    <Build Include="dbo\Tables\SitePhysicalLocation.sql" />
+    <Build Include="dbo\Tables\SocioeconomicStatus.sql" />
+    <Build Include="dbo\Tables\StatisticalAgeGroup.sql" />
+    <Build Include="dbo\Tables\StrategicArea.sql" />
+    <Build Include="dbo\Tables\SubstanceAdministration.sql" />
+    <Build Include="dbo\Tables\Vaccine.sql" />
+    <Build Include="dbo\Tables\VaccineAntigen.sql" />
+    <Build Include="dbo\Tables\VaccineContraindication.sql" />
+    <Build Include="dbo\Tables\VaccineInventory.sql" />
+    <Build Include="dbo\Tables\VaccineInventoryEvent.sql" />
+    <Build Include="dbo\Tables\VaccineLot.sql" />
+    <Build Include="dbo\Tables\VitalSigns.sql" />
+    <Build Include="Protected\Tables\ExternalSystem.sql" />
+    <Build Include="Protected\Tables\Person.sql" />
+    <Build Include="Protected\Tables\PersonReportedLocation.sql" />
+    <Build Include="Protected\Tables\PhysicalLocation.sql" />
+    <Build Include="Protected\Tables\PhysicalLocationGeoRegion.sql" />
+    <Build Include="Protected\Tables\ReportedLocation.sql" />
+    <Build Include="Protected\Tables\ReportedLocationPhysicalLocation.sql" />
+    <Build Include="Protected\Tables\ReportedLocationType.sql" />
+    <Build Include="Protected\Tables\SiteReportedLocation.sql" />
+    <Build Include="Security\dbo.sql" />
+    <Build Include="Security\Protected.sql" />
+    <None Include="Scripts\ScriptsIgnoredOnImport.sql" />
+  </ItemGroup>
+</Project>
