@@ -72,7 +72,7 @@ VersionId,Version_ID,Copyright,Global_User_ID,Row_Time_Stamp
 
 Diagram
 DiagramId,Version_ID,VersionId,LastUpdate,CreateDate,ActiveModel,ActiveSubmodel,VSplitterPosition,X,Y,Width,Height,DiagramNameId,AuthorId,CompanyId,VersionNoId,CopyrightStringId,DefinitionId,UnificationOptionId,FileNameId,CopyrightYearStringId,DiagramName,CodePage,SignatureGUID,ReleaseName,Flags,Global_User_ID,Row_Time_Stamp
-1,1,900,09/28/2012 13:47:33G,09/28/2012 10:33:06G,4,1,180,0,0,0,0,17,0,0,0,0,0,664,4039,0,DPH DataMart,1252,"","",0,31,0
+1,1,900,10/01/2012 16:22:56G,09/28/2012 10:33:06G,4,1,180,0,0,0,0,17,0,0,0,0,0,664,4039,0,DPH DataMart,1252,"","",0,31,0
 
 Model
 DiagramId,ModelId,Model_ID,ModelType,PlatformId,NamePrefix,SpaceHandling,CaseHandling,GenPrimaryKey,GenAlternateKey,GenInversionEntry,GenForeignKey,Notation,ModelNameId,RowOverhead,TableOverhead,IndexOverhead,BlobOverhead,BlobBlockSize,Global_User_ID,Row_Time_Stamp
@@ -125,7 +125,7 @@ SubmodelLink_ID,Model_ID,Parent_ID,Child_ID,UltimateParent_ID,NodeLevel,IsBottom
 
 DiagramDisplay
 DiagramId,ModelId,SubmodelId,DiagramDisplay_ID,Submodel_ID,PlatformId,Animate,ZoomFactor,HviewSize,VviewSize,HorizontalScrollPosition,VerticalScrollPosition,PageOrientation,PageSize,DisplayFormat,EntityDisplayInfo,ViewDisplayFormat,ViewDisplayInfo,Shadow,CompleteRoleName,ShowVerbs,ShowCardinality,MethodologyId,StraightRelLine,PageBoundary,ShowViewRelationship,ShowView,HideTrigger,Global_User_ID,Row_Time_Stamp,ShowSchemaObjEdge,ShowSchemaObj,SchemaObjDisplayFormat,ShowRelationshipName,ShowLogicalRelationshipName,ShowTriggerLabel,ShowShape,ShowShapeEdge,ShowShapeName,ShowShapeEdgeName,ShowShapeEdgeVerbs,TransformationDisplayFormat
-1,4,1,25,43,0,0,845,0,0,-3131,2594,2,1,9,3269,1,0,1,0,1,1,0,0,0,0,0,0,16056,0,1,6,7,0,0,0,0,0,1,0,0,0
+1,4,1,25,43,0,0,844,0,0,-3130,2593,2,1,9,3269,1,0,1,0,1,1,0,0,0,0,0,0,16056,0,1,6,7,0,0,0,0,0,1,0,0,0
 1,1,1,1,1,0,0,3113,0,0,1588,6677,2,1,8,3264,1,0,1,0,1,1,0,0,0,0,0,0,5696,0,1,6,7,0,0,0,0,0,1,0,0,0
 
 GridDisplay
@@ -3698,7 +3698,7 @@ DiagramId,ModelId,SubmodelId,RelationshipId,RelationshipDisplay_ID,ForeignKey_ID
 1,1,1,398,885,684,1,5000,N,N,0,0,0,0,0,1,0,0,-85,0,0,0,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34237,0
 1,1,1,399,886,685,1,5000,N,N,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34239,0
 1,1,1,400,887,686,1,5000,N,N,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34298,0
-1,4,1,14,610,437,43,5000,N,N,0,-2024,11,0,0,3,0,0,-120,0,0,-154,0,0,0,0,0,0,0,0,0,0,6,-42,0,0,0,0,0,0,18513,0
+1,4,1,14,610,437,43,5000,N,N,0,-2027,11,0,0,3,0,0,-120,0,0,-154,0,0,0,0,0,0,0,0,0,0,6,-42,0,0,0,0,0,0,18513,0
 1,1,1,401,888,687,1,5000,N,N,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34300,0
 1,4,1,15,480,344,43,5000,N,N,0,0,0,0,0,3,0,185,-10,0,0,-184,-24,0,0,0,0,0,0,0,0,0,2,-18,0,0,0,0,0,0,18193,0
 1,1,1,402,889,688,1,5000,N,N,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34330,0
@@ -3753,13 +3753,13 @@ DiagramId,ModelId,SubmodelId,RelationshipId,RelationshipDisplay_ID,ForeignKey_ID
 1,4,1,72,533,376,43,5000,N,N,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,94,-17,0,0,0,0,0,0,18312,0
 1,4,1,254,726,540,43,5000,N,N,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,176,-57,0,0,0,0,0,0,25087,0
 1,4,1,77,540,381,43,5000,N,N,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,208,-15,0,0,0,0,0,0,18329,0
-1,4,1,78,543,383,43,5000,N,N,0,0,0,0,0,1,0,171,63,0,0,-191,-80,0,0,0,0,0,0,0,0,0,146,-43,0,0,0,0,0,0,18337,0
-1,4,1,79,545,384,43,5000,N,N,0,0,0,0,0,1,0,171,72,0,0,-194,-73,0,0,0,0,0,0,0,0,0,-159,-21,0,0,0,0,0,0,18341,0
+1,4,1,78,543,383,43,5000,N,N,0,0,0,0,0,1,0,171,63,0,0,-191,-80,0,0,0,0,0,0,0,0,0,147,-43,0,0,0,0,0,0,18337,0
+1,4,1,79,545,384,43,5000,N,N,0,0,0,0,0,1,0,171,72,0,0,-194,-73,0,0,0,0,0,0,0,0,0,-161,-21,0,0,0,0,0,0,18341,0
 1,4,1,260,732,546,43,5000,N,N,0,0,0,0,0,3,0,-9,149,0,0,-33,-118,0,0,0,0,0,0,0,0,0,-136,-34,0,0,0,0,0,0,25621,0
 1,4,1,261,733,547,43,5000,N,N,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-161,-19,0,0,0,0,0,0,25798,0
 1,4,1,262,734,548,43,5000,N,N,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,160,-26,0,0,0,0,0,0,25800,0
 1,4,1,266,739,552,43,5000,N,N,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,127,-32,0,0,0,0,0,0,26421,0
-1,4,1,267,740,553,43,5000,N,N,0,0,0,0,0,3,0,-179,1,0,0,1,-80,0,0,0,0,0,0,0,0,0,668,-816,0,0,0,0,0,0,26423,0
+1,4,1,267,740,553,43,5000,N,N,0,0,0,0,0,3,0,-179,1,0,0,1,-80,0,0,0,0,0,0,0,0,0,671,-816,0,0,0,0,0,0,26423,0
 1,4,1,268,741,554,43,5000,N,N,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-132,180,0,0,0,0,0,0,26437,0
 1,4,1,271,745,557,43,5000,N,N,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-85,-15,0,0,0,0,0,0,26455,0
 1,4,1,91,558,394,43,5000,N,N,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-82,-36,0,0,0,0,0,0,18374,0
@@ -3784,7 +3784,7 @@ DiagramId,ModelId,SubmodelId,RelationshipId,RelationshipDisplay_ID,ForeignKey_ID
 1,4,1,298,775,584,43,5000,N,N,0,0,0,0,0,1,0,-184,-15,0,0,160,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29366,0
 1,4,1,301,780,587,43,5000,N,N,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29439,0
 1,4,1,302,781,588,43,5000,N,N,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29444,0
-1,4,1,304,783,590,43,5000,N,N,0,0,0,0,0,3,0,9,120,0,0,5,-140,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,29459,0
+1,4,1,304,783,590,43,5000,N,N,0,0,0,0,0,3,0,9,120,0,0,5,-140,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,29459,0
 1,4,1,307,786,593,43,5000,N,N,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29716,0
 1,4,1,142,598,425,43,5000,N,N,0,0,0,0,0,1,3,0,0,65601525,0,0,0,0,0,0,0,0,0,0,0,0,-149,-15,0,0,0,0,0,0,18477,0
 1,1,1,356,843,642,1,5000,N,N,0,646,-58,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32990,0
@@ -3912,23 +3912,23 @@ String_Id,Data,Overflow,ConstantString,Row_Time_Stamp
 32,Geograpy,0,0,0
 33,ID,0,0,0
 34,Initial,0,0,0
+1539,AbnormalConditionsNoneFlag,0,0,0
 35,Lat/Lon,0,0,0
 36,DC,0,0,0
-1539,AbnormalConditionsNoneFlag,0,0,0
+1541,AbnormalConditionsBirthInjuryFlag,0,0,0
 37,LoadID,0,0,0
 38,Money,0,0,0
-1541,AbnormalConditionsBirthInjuryFlag,0,0,0
 39,Name,0,0,0
+1544,AbnormalConditionsMeconiumAspirationSyndromeFlag,0,0,0
 40,Quantity,0,0,0
 41,RowCurrentFlag,0,0,0
-1544,AbnormalConditionsMeconiumAspirationSyndromeFlag,0,0,0
 42,RowEndDate,0,0,0
 43,RowStartDate,0,0,0
-44,SSN,0,0,0
-45,Street Address,0,0,0
 1548,AbnormalConditionsOtherFlag,0,0,0
-46,Text,0,0,0
+44,SSN,0,0,0
 1549,CongenitalAnomaliesNoneFlag,0,0,0
+45,Street Address,0,0,0
+46,Text,0,0,0
 47,Title,0,0,0
 48,Volume,0,0,0
 49,Year,0,0,0
@@ -3938,28 +3938,28 @@ String_Id,Data,Overflow,ConstantString,Row_Time_Stamp
 53,Antigen,0,0,0
 57,Antigen Contraindication,0,0,0
 59,Birth,0,0,0
-65,PK51,0,0,0
 1569,CongenitalAnomaliesOtherFlag,0,0,0
+65,PK51,0,0,0
 1570,Observation,0,0,0
 1571,ObservationClassName,0,0,0
 70,PK50,0,0,0
 1577,PK112,0,0,0
 75,PK33,0,0,0
-78,City,0,0,0
 1581,ObservationResultsText,0,0,0
-80,PK14,0,0,0
+78,City,0,0,0
 1583,ObservationTermName,0,0,0
 1584,ObservationTermNumber,0,0,0
+80,PK14,0,0,0
 1585,ObservationResultsNumeric,0,0,0
 84,PK13,0,0,0
-87,Data Source,0,0,0
 1591,PK115,0,0,0
+87,Data Source,0,0,0
 1592,PK116,0,0,0
 90,Death,0,0,0
 92,Diagnosis Code,0,0,0
 1600,PK117,0,0,0
-98,Education Level,0,0,0
 1601,PK118,0,0,0
+98,Education Level,0,0,0
 101,Encounter,0,0,0
 103,PK10,0,0,0
 104,Ethnicity,0,0,0
@@ -3971,68 +3971,68 @@ String_Id,Data,Overflow,ConstantString,Row_Time_Stamp
 1636,PK139,0,0,0
 134,Grant,0,0,0
 136,Healthcare Activity,0,0,0
-145,Healthcare Activity Relationship,0,0,0
 1648,VitalSignsValueText,0,0,0
+145,Healthcare Activity Relationship,0,0,0
 1650,ReportableDisease,0,0,0
 1651,ReportableDiseaseRowKey,0,0,0
 1652,ReportableDiseaseName,0,0,0
 1653,ObservedReportableDisease,0,0,0
-151,Immunization,0,0,0
 1654,ObservedReportableDiseaseRowKey,0,0,0
+151,Immunization,0,0,0
 1656,OnsetDate,0,0,0
-154,Immunization Priority Group,0,0,0
 1658,PatientOutcome,0,0,0
+154,Immunization Priority Group,0,0,0
 1659,PreviousSurgeryDate,0,0,0
 1660,OrganTransplantFlag,0,0,0
-158,ImmunizationContraindication,0,0,0
 1661,OrganTransplantYear,0,0,0
+158,ImmunizationContraindication,0,0,0
 1663,Provider_1,0,0,0
-161,Infectious Disease,0,0,0
 1665,PayerSourceRowKey,0,0,0
+161,Infectious Disease,0,0,0
 1666,PayerSourceName,0,0,0
 1667,PayerSourceType,0,0,0
-165,Inquiry,0,0,0
 1668,PayerSourceOther,0,0,0
 1669,PayerSource,0,0,0
+165,Inquiry,0,0,0
 1672,PK143,0,0,0
 1675,Entity5,0,0,0
 1676,Entity6,0,0,0
 1677,PovertyLevel,0,0,0
 1678,HouseholdSize,0,0,0
 176,PK46,0,0,0
-178,Observed Immunization Adverse Reaction,0,0,0
 1682,PovertyLevelName,0,0,0
-180,Observed Immunization Contraindication,0,0,0
+178,Observed Immunization Adverse Reaction,0,0,0
 1683,PovertyLevelRowKey,0,0,0
 1684,HouseholdSizeName,0,0,0
-182,Other Observation,0,0,0
+180,Observed Immunization Contraindication,0,0,0
 1685,HouseholdSizeRowKey,0,0,0
 1686,PK151,0,0,0
-184,Person,0,0,0
+182,Other Observation,0,0,0
 1687,PK152,0,0,0
 1688,PK149,0,0,0
-186,PK1,0,0,0
+184,Person,0,0,0
 1689,PK150,0,0,0
+186,PK1,0,0,0
 189,Person Geo Region,0,0,0
 191,PK61,0,0,0
-194,ds,0,0,0
 1697,HomelessFlag,0,0,0
 1698,USCitizenFlag,0,0,0
+194,ds,0,0,0
 1701,ProviderFullName,0,0,0
 1702,DiagnosisDate,0,0,0
-200,Person Relationship,0,0,0
 1703,Entity7,0,0,0
 1704,PK153,0,0,0
-202,PK27,0,0,0
+200,Person Relationship,0,0,0
 1706,PersonImportGUID,0,0,0
+202,PK27,0,0,0
 1707,ExternalSystemTableName,0,0,0
 1708,ExternalSystemIntegerID,0,0,0
 207,Person/1,0,0,0
 1718,CaseStatusCode,0,0,0
 1719,OutbreakRelatedCode,0,0,0
+1721,OrganTransplantDescription,0,0,0
 217,Physical Location Geo Region/1,0,0,0
 218,PK55,0,0,0
-1721,OrganTransplantDescription,0,0,0
 219,Physical Location/1,0,0,0
 220,Place,0,0,0
 223,Population Statistics,0,0,0
@@ -4047,12 +4047,12 @@ String_Id,Data,Overflow,ConstantString,Row_Time_Stamp
 255,Site,0,0,0
 266,State,0,0,0
 272,Statistical Age Group,0,0,0
-276,Strategic Area,0,0,0
 1780,AboveNationalAverageFlag,0,0,0
+276,Strategic Area,0,0,0
 1781,AboveColoradoAverageFlag,0,0,0
 1790,IDX_Person2,0,0,0
-288,Vaccine,0,0,0
 1792,IDX_PhysicalLocationGeoRegion2,0,0,0
+288,Vaccine,0,0,0
 1793,IDX_PhysicalLocationGeoRegion3,0,0,0
 293,Vaccine Contraindication,0,0,0
 295,Vaccine Inventory,0,0,0
@@ -4067,35 +4067,35 @@ String_Id,Data,Overflow,ConstantString,Row_Time_Stamp
 320,generates antibodies to an,0,0,0
 321,R/129,0,0,0
 322,R/13,0,0,0
-323,R/135,0,0,0
-324,R/137,0,0,0
 1827,IDX_VaccineContraindication2,0,0,0
-325,R/143,0,0,0
+323,R/135,0,0,0
 1828,IDX_VaccineContraindication3,0,0,0
-326,R/148,0,0,0
-327,R/149,0,0,0
+324,R/137,0,0,0
+325,R/143,0,0,0
 1830,IDX_VaccineInventory2,0,0,0
-328,R/15,0,0,0
+326,R/148,0,0,0
 1831,IDX_VaccineInventory3,0,0,0
-329,R/150,0,0,0
-330,R/151,0,0,0
-1833,IDX_VaccineInventoryEvent2,0,0,0
-331,R/155,0,0,0
-1834,IDX_VaccineInventoryEvent3,0,0,0
+327,R/149,0,0,0
 3337,FK_79,0,0,0
-332,R/156,0,0,0
+328,R/15,0,0,0
+1833,IDX_VaccineInventoryEvent2,0,0,0
+329,R/150,0,0,0
+1834,IDX_VaccineInventoryEvent3,0,0,0
+330,R/151,0,0,0
 1835,IDX_VaccineInventoryEvent4,0,0,0
+331,R/155,0,0,0
+332,R/156,0,0,0
 333,R/157,0,0,0
+1838,IDX_VaccineLot2,0,0,0
 334,R/158,0,0,0
 335,R/159,0,0,0
-1838,IDX_VaccineLot2,0,0,0
 336,R/16,0,0,0
 337,R/160,0,0,0
-338,R/161,0,0,0
-339,R/162,0,0,0
 1842,IDX_ObservedReportableDisease2,0,0,0
-340,R/163,0,0,0
+338,R/161,0,0,0
 1843,IDX_ObservedReportableDisease3,0,0,0
+339,R/162,0,0,0
+340,R/163,0,0,0
 341,R/164,0,0,0
 342,R/165,0,0,0
 343,R/166,0,0,0
@@ -4103,9 +4103,9 @@ String_Id,Data,Overflow,ConstantString,Row_Time_Stamp
 345,R/168,0,0,0
 346,R/169,0,0,0
 347,R/17,0,0,0
+1852,IDX_SitePhysicalLocation2,0,0,0
 348,R/170,0,0,0
 349,R/171,0,0,0
-1852,IDX_SitePhysicalLocation2,0,0,0
 350,R/172,0,0,0
 351,R/173,0,0,0
 352,R/175,0,0,0
@@ -4114,31 +4114,31 @@ String_Id,Data,Overflow,ConstantString,Row_Time_Stamp
 355,R/178,0,0,0
 356,R/182,0,0,0
 357,R/183,0,0,0
+1862,IDX_Antigen2,0,0,0
 358,R/184,0,0,0
 359,R/185,0,0,0
-1862,IDX_Antigen2,0,0,0
-360,R/186,0,0,0
-361,R/188,0,0,0
 1864,IDX_AntigenContraindication2,0,0,0
-362,R/189,0,0,0
+360,R/186,0,0,0
 1865,IDX_AntigenContraindication3,0,0,0
+361,R/188,0,0,0
+362,R/189,0,0,0
 363,R/190,0,0,0
 364,R/191,0,0,0
 365,R/192,0,0,0
 366,R/193,0,0,0
 367,R/194,0,0,0
+1872,IDX_Death2,0,0,0
 368,R/195,0,0,0
 369,R/196,0,0,0
-1872,IDX_Death2,0,0,0
 370,R/197,0,0,0
 371,R/198,0,0,0
 372,R/199,0,0,0
 373,R/2,0,0,0
 374,R/200,0,0,0
 375,R/201,0,0,0
+1880,IDX_Encounter3,0,0,0
 376,R/21,0,0,0
 377,R/22,0,0,0
-1880,IDX_Encounter3,0,0,0
 378,R/223,0,0,0
 379,R/226,0,0,0
 380,R/227,0,0,0
@@ -4148,15 +4148,15 @@ String_Id,Data,Overflow,ConstantString,Row_Time_Stamp
 384,R/234,0,0,0
 385,R/235,0,0,0
 386,R/24,0,0,0
+1891,IDX_GeographicRegion2,0,0,0
 387,R/255,0,0,0
 388,R/257,0,0,0
-1891,IDX_GeographicRegion2,0,0,0
 389,R/258,0,0,0
-390,R/259,0,0,0
-391,R/264,0,0,0
 1894,IDX_HealthcareActivity2,0,0,0
-392,R/265,0,0,0
+390,R/259,0,0,0
 1895,IDX_HealthcareActivity3,0,0,0
+391,R/264,0,0,0
+392,R/265,0,0,0
 393,R/268,0,0,0
 394,R/269,0,0,0
 395,R/27,0,0,0
@@ -4165,16 +4165,16 @@ String_Id,Data,Overflow,ConstantString,Row_Time_Stamp
 398,R/274,0,0,0
 399,R/275,0,0,0
 400,R/276,0,0,0
-401,R/277,0,0,0
-402,R/278,0,0,0
 1905,IDX_HealthcareActivityRelationship2,0,0,0
-403,R/279,0,0,0
+401,R/277,0,0,0
 1906,IDX_HealthcareActivityRelationship3,0,0,0
-404,R/28,0,0,0
-405,R/280,0,0,0
+402,R/278,0,0,0
+403,R/279,0,0,0
 1908,IDX_Immunization2,0,0,0
-406,R/287,0,0,0
+404,R/28,0,0,0
 1909,IDX_Immunization3,0,0,0
+405,R/280,0,0,0
+406,R/287,0,0,0
 407,R/288,0,0,0
 408,R/290,0,0,0
 409,R/291,0,0,0
@@ -4184,22 +4184,22 @@ String_Id,Data,Overflow,ConstantString,Row_Time_Stamp
 413,R/295,0,0,0
 414,R/296,0,0,0
 415,R/31,0,0,0
+1920,IDX_ObservedImmunizationAdverseReaction2,0,0,0
 416,R/32,0,0,0
 417,R/35,0,0,0
-1920,IDX_ObservedImmunizationAdverseReaction2,0,0,0
-418,R/39,0,0,0
-419,R/4,0,0,0
 1922,IDX_ObservedImmunizationContraindication2,0,0,0
-420,R/40,0,0,0
+418,R/39,0,0,0
 1923,IDX_ObservedImmunizationContraindication3,0,0,0
+419,R/4,0,0,0
+420,R/40,0,0,0
+1925,IDX_Observation2,0,0,0
 421,R/46,0,0,0
 422,R/51,0,0,0
-1925,IDX_Observation2,0,0,0
 423,R/57,0,0,0
 424,R/58,0,0,0
+1930,IDX_PersonGeoRegion2,0,0,0
 426,R/6,0,0,0
 427,R/60,0,0,0
-1930,IDX_PersonGeoRegion2,0,0,0
 428,R/61,0,0,0
 429,R/63,0,0,0
 430,R/64,0,0,0
@@ -4211,9 +4211,9 @@ String_Id,Data,Overflow,ConstantString,Row_Time_Stamp
 436,R/75,0,0,0
 437,R/8,0,0,0
 438,R/83,0,0,0
+1943,PK18,0,0,0
 439,R/84,0,0,0
 440,R/85,0,0,0
-1943,PK18,0,0,0
 441,R/86,0,0,0
 442,R/87,0,0,0
 443,R/88,0,0,0
@@ -4223,292 +4223,292 @@ String_Id,Data,Overflow,ConstantString,Row_Time_Stamp
 447,Antigen ID,0,0,0
 448,Antigen Name,0,0,0
 449,Infectious Disease ID,0,0,0
-450,Vaccine ID,0,0,0
-451,Immunization Contraindication ID,0,0,0
 1954,RowKey,0,0,0
-452,Healthcare Activity ID,0,0,0
+450,Vaccine ID,0,0,0
 1955,DiagnosisCodeTypeRowKey,0,0,0
+451,Immunization Contraindication ID,0,0,0
 1956,PK154,0,0,0
-454,Cause of Death ID,0,0,0
+452,Healthcare Activity ID,0,0,0
 1958,DiagnosisCodeTypeName,0,0,0
+454,Cause of Death ID,0,0,0
 1961,DiagnosisCodeCategoryName,0,0,0
+3466,FK_GeographicRegion_PhysicalLocationGeoRegion,0,0,0
 1962,PK155,0,0,0
 460,Census Block Group ID,0,0,0
-3466,FK_GeographicRegion_PhysicalLocationGeoRegion,0,0,0
+3470,FK_PublicHealthCase_ObservedReportableDisease,0,0,0
 461,Geographic Region ID,0,0,0
 1966,PK156,0,0,0
-3470,FK_PublicHealthCase_ObservedReportableDisease,0,0,0
-465,Census Tract ID,0,0,0
 3473,FK_GeographicRegionType_GeographicRegion,0,0,0
-468,County ID,0,0,0
+465,Census Tract ID,0,0,0
 1971,PK157,0,0,0
+468,County ID,0,0,0
 472,State ID,0,0,0
-475,Data Source ID,0,0,0
-476,Data Source Name,0,0,0
 3482,FK_HealthcareActivity_Observation,0,0,0
-477,Diagnosis Code ID,0,0,0
+475,Data Source ID,0,0,0
 1980,PK167,0,0,0
-478,Diagnosis Code Description,0,0,0
-479,Diagnosis Code Name,0,0,0
 3485,FK_Antigen_VaccineAntigen,0,0,0
-1983,Entity13,0,0,0
+476,Data Source Name,0,0,0
 3486,FK_Vaccine_VaccineAntigen,0,0,0
-481,Education Level ID,0,0,0
-482,Education Level Name,0,0,0
+477,Diagnosis Code ID,0,0,0
+478,Diagnosis Code Description,0,0,0
+1983,Entity13,0,0,0
 3488,FK_ReportableDisease_Antigen,0,0,0
-483,Encounter ID,0,0,0
-1986,IncomeRowKey,0,0,0
+479,Diagnosis Code Name,0,0,0
 3489,FK_PublicHealthOutbreak_PublicHealthCase,0,0,0
-484,Site Row Key,0,0,0
 3490,FK_VaccineLot_VaccineInventory,0,0,0
-485,Provider ID,0,0,0
+481,Education Level ID,0,0,0
+1986,IncomeRowKey,0,0,0
 3491,FK_VaccineLot_Immunization,0,0,0
-486,Encounter Date,0,0,0
-1989,PK169,0,0,0
+482,Education Level Name,0,0,0
 3492,FK_Vaccine_VaccineLot,0,0,0
-487,Encounter Type Name,0,0,0
-1990,PK168,0,0,0
+483,Encounter ID,0,0,0
 3493,FK_Vaccine_VaccineContraindication,0,0,0
-489,Person Row Key,0,0,0
+484,Site Row Key,0,0,0
+1989,PK169,0,0,0
+485,Provider ID,0,0,0
+1990,PK168,0,0,0
 3495,FK_Antigen_AntigenContraindication,0,0,0
-490,Public Health Event ID,0,0,0
-491,Ethnicity ID,0,0,0
-1994,AttendantTypeName,0,0,0
+486,Encounter Date,0,0,0
+487,Encounter Type Name,0,0,0
 3497,FK_ImmunizationContraindication_VaccineContraindication,0,0,0
-492,Ethnicity Name,0,0,0
-1995,BirthChildsSexRowKey,0,0,0
 3498,FK_ImmunizationContraindication_AntigenContraindication,0,0,0
-493, External System ID,0,0,0
-1996,BirthWeightGrams,0,0,0
-1997,BirthWeightOunces,0,0,0
+489,Person Row Key,0,0,0
+1994,AttendantTypeName,0,0,0
+490,Public Health Event ID,0,0,0
+1995,BirthChildsSexRowKey,0,0,0
 3500,FK_StatisticalAgeGroup_PopulationStatistics,0,0,0
-1998,BirthWeightPriority,0,0,0
+491,Ethnicity ID,0,0,0
+1996,BirthWeightGrams,0,0,0
 3501,FK_Race_PopulationStatistics,0,0,0
-496,External System Unique Identifier,0,0,0
-1999,GestationObstetricEstimateWeeks,0,0,0
-497,Gender Identity ID,0,0,0
-2000,GestationClinicalEstimateWeeks,0,0,0
+492,Ethnicity Name,0,0,0
+1997,BirthWeightOunces,0,0,0
+493, External System ID,0,0,0
+1998,BirthWeightPriority,0,0,0
 3503,FK_Ethnicity_PopulationStatistics,0,0,0
+1999,GestationObstetricEstimateWeeks,0,0,0
+2000,GestationClinicalEstimateWeeks,0,0,0
+496,External System Unique Identifier,0,0,0
 2001,APGAR10minNumber,0,0,0
-2002,PrenatalVisitCount,0,0,0
-500,Generic Inquiry Answer ID,0,0,0
-2003,MotherTransferredFlag,0,0,0
 3506,FK_ReportableDisease_PublicHealthOutbreak,0,0,0
-501,Generic Inquiry Question ID,0,0,0
+497,Gender Identity ID,0,0,0
+2002,PrenatalVisitCount,0,0,0
+2003,MotherTransferredFlag,0,0,0
 2004,MotherReceivedWICFlag,0,0,0
+500,Generic Inquiry Answer ID,0,0,0
 2005,MotherReceivedPrenatalCareFlag,0,0,0
+501,Generic Inquiry Question ID,0,0,0
 2006,FirstPrenatalVisitDate,0,0,0
-2007,LastPrenatalVisitDate,0,0,0
-2008,PregancyWeightGainedPounds,0,0,0
 3511,FK_GeographicRegion_PersonGeoRegion,0,0,0
-506,Generic Inquiry Response ID,0,0,0
-2009,PreviousTerminationsCount,0,0,0
+2007,LastPrenatalVisitDate,0,0,0
 3512,FK_Sex_PopulationStatistics,0,0,0
-507,Socioeconomic Status ID,0,0,0
+2008,PregancyWeightGainedPounds,0,0,0
+2009,PreviousTerminationsCount,0,0,0
 2010,LastTerminationDate,0,0,0
-508,Sex ID,0,0,0
-2011,PrePregnancyCigarettesPerDayCount,0,0,0
-509,Statistical Age Group ID,0,0,0
-2012,FirstTrimesterCigarettesPerDayCount,0,0,0
 3515,FK_HealthcareActivity_Inquiry,0,0,0
-510,Race ID,0,0,0
-2013,SecondTrimesterCigarettesPerDayCount,0,0,0
+506,Generic Inquiry Response ID,0,0,0
+2011,PrePregnancyCigarettesPerDayCount,0,0,0
 3516,FK_HealthcareActivity_ObservedImmunizationContraindication,0,0,0
-511,Type of Birth ID,0,0,0
-2014,ThirdTrimesterCigarettesPerDayCount,0,0,0
+507,Socioeconomic Status ID,0,0,0
+2012,FirstTrimesterCigarettesPerDayCount,0,0,0
 3517,FK_HealthcareActivity_ObservedImmunizationAdverseReaction,0,0,0
-2015,PrePregnancyDrinksPerWeekCount,0,0,0
+508,Sex ID,0,0,0
+2013,SecondTrimesterCigarettesPerDayCount,0,0,0
 3518,FK_HealthcareActivity_Immunization,0,0,0
-2016,FirstTrimesterDrinksPerWeekCount,0,0,0
+509,Statistical Age Group ID,0,0,0
+2014,ThirdTrimesterCigarettesPerDayCount,0,0,0
 3519,FK_HealthcareActivity_Death,0,0,0
-514,Survey Answer ID,0,0,0
-2017,SecondTrimesterDrinksPerWeekCount,0,0,0
+510,Race ID,0,0,0
+2015,PrePregnancyDrinksPerWeekCount,0,0,0
 3520,FK_HealthcareActivity_ObservedReportableDisease,0,0,0
-2018,thridTrimesterDrinksPerWeekCount,0,0,0
-516,Geo Region Geography,0,0,0
-2019,LastNormalMensisDate,0,0,0
+511,Type of Birth ID,0,0,0
+2016,FirstTrimesterDrinksPerWeekCount,0,0,0
+2017,SecondTrimesterDrinksPerWeekCount,0,0,0
 3522,FK_ReportableDisease_ObservedReportableDisease,0,0,0
-517,Geo Region Center Latitude,0,0,0
+2018,thridTrimesterDrinksPerWeekCount,0,0,0
+514,Survey Answer ID,0,0,0
+2019,LastNormalMensisDate,0,0,0
 2020,InfantTransferredWithin24HoursOfDeliveryFlag,0,0,0
-518,Geo Region Center Longitude,0,0,0
+516,Geo Region Geography,0,0,0
 2021,InfantReceivingBreastMilkAtDischargeFlag,0,0,0
-519,Geo Region Center Geography,0,0,0
+517,Geo Region Center Latitude,0,0,0
 2022,PrenatalHepatitisBScreenFlag,0,0,0
-520,Grant ID,0,0,0
+518,Geo Region Center Longitude,0,0,0
 2023,PrenatalHivScreenFlag,0,0,0
+519,Geo Region Center Geography,0,0,0
 2024,InfantReceivedHepatitisBImmunizationFlag,0,0,0
-522,Program ID,0,0,0
+520,Grant ID,0,0,0
 2025,InfantReceivedHepatitisBImmunizationDate,0,0,0
-523,Healthcare Activity Type Name,0,0,0
-2026,RiskFactorsPrepregnancyDiabetesFlag,0,0,0
-524,Healthcare Activity Start Date,0,0,0
-2027,RiskFactorsGestationalDiabetesFlag,0,0,0
 3530,FK_PayerSource_PayerSourceEncounter,0,0,0
-525,Healthcare Activity End Date,0,0,0
-2028,RiskFactorsPrepregnancyHypertensionFlag,0,0,0
-526,Healthcare Activity Historical Flag,0,0,0
-2029,RiskFactorsGestationalHypertensionFlag,0,0,0
+2026,RiskFactorsPrepregnancyDiabetesFlag,0,0,0
+522,Program ID,0,0,0
+2027,RiskFactorsGestationalDiabetesFlag,0,0,0
 3532,FK_Encounter_HealthcareActivity,0,0,0
-527,Procedure Code ID,0,0,0
-2030,RiskFactorsEclampsiaFlag,0,0,0
-528,Related Healthcare Activity ID,0,0,0
-2031,RiskFactorsHellpSyndromeFlag,0,0,0
+523,Healthcare Activity Type Name,0,0,0
+2028,RiskFactorsPrepregnancyHypertensionFlag,0,0,0
+524,Healthcare Activity Start Date,0,0,0
+2029,RiskFactorsGestationalHypertensionFlag,0,0,0
 3534,FK_ImmunizationContraindication_ObservedImmunizationContraindication,0,0,0
-529,Healthcare Activity Relationship Type Name,0,0,0
-2032,RiskFactorsPreviousPretermBirthFlag,0,0,0
-2033,RiskFactorsPreviousInfantOver4000GramsFlag,0,0,0
+525,Healthcare Activity End Date,0,0,0
+2030,RiskFactorsEclampsiaFlag,0,0,0
+526,Healthcare Activity Historical Flag,0,0,0
+2031,RiskFactorsHellpSyndromeFlag,0,0,0
 3536,FK_HealthcareActivity_HealthcareActivityRelationship,0,0,0
+527,Procedure Code ID,0,0,0
+2032,RiskFactorsPreviousPretermBirthFlag,0,0,0
+528,Related Healthcare Activity ID,0,0,0
+2033,RiskFactorsPreviousInfantOver4000GramsFlag,0,0,0
+529,Healthcare Activity Relationship Type Name,0,0,0
 2034,RiskFactorsOtherPreviousPoorOutcomeFlag,0,0,0
-532,Vaccine Lot ID,0,0,0
 2035,RiskFactorsPregnancyResultedFromInfertilityTreatmentFlag,0,0,0
-533,Vaccine Administration Site Name,0,0,0
 2036,RiskFactorsInfertilityTreatmentAsDrugsInseminationFlag,0,0,0
-534,Vaccine Dosage Amount,0,0,0
+532,Vaccine Lot ID,0,0,0
 2037,RiskFactorsAssistedReproductiveTechnologyFlag,0,0,0
-535,Vaccine Dose Number,0,0,0
+533,Vaccine Administration Site Name,0,0,0
 2038,RiskFactorsPreviousCesareanFlag,0,0,0
-536,Immunization Priority Group ID,0,0,0
-2039,RiskFactorsNumberOfPreviousCesareansFlag,0,0,0
-537,Immunization Priority Group Name,0,0,0
-2040,RiskFactorsAsthmaFlag,0,0,0
 3543,FK_HealthcareActivity_Birth,0,0,0
-538,Immunization Contraindication Name,0,0,0
+534,Vaccine Dosage Amount,0,0,0
+2039,RiskFactorsNumberOfPreviousCesareansFlag,0,0,0
+535,Vaccine Dose Number,0,0,0
+2040,RiskFactorsAsthmaFlag,0,0,0
+536,Immunization Priority Group ID,0,0,0
 2041,RiskFactorsGenitalHerpesFlag,0,0,0
-539,Infectious Disease Name,0,0,0
+537,Immunization Priority Group Name,0,0,0
 2042,RiskFactorsOtherFlag,0,0,0
-540,Vaccine Preventable Flag,0,0,0
-2043,RiskFactorsNoneFlag,0,0,0
-541,Specific Inquiry Response ID,0,0,0
-2044,RiskFactorsUnknownFlag,0,0,0
 3547,FK_StrategicArea_Program,0,0,0
-2045,PrenatalSyphilisScreenFlag,0,0,0
+538,Immunization Contraindication Name,0,0,0
+2043,RiskFactorsNoneFlag,0,0,0
 3548,FK_Program_VaccineInventoryEvent,0,0,0
-2046,InfectionsGonorrheaFlag,0,0,0
-2047,InfectionsChlamydiaFlag,0,0,0
+539,Infectious Disease Name,0,0,0
+2044,RiskFactorsUnknownFlag,0,0,0
+540,Vaccine Preventable Flag,0,0,0
+2045,PrenatalSyphilisScreenFlag,0,0,0
 3550,FK_ReportedLocation_PersonReportedLocation,0,0,0
-2048,InfectionsCytomegalovirusFlag,0,0,0
+541,Specific Inquiry Response ID,0,0,0
+2046,InfectionsGonorrheaFlag,0,0,0
 3551,FK_ReportedLocation_ReportedLocationPhysicalLocation,0,0,0
-2049,InfectionsHepatitisBFlag,0,0,0
+2047,InfectionsChlamydiaFlag,0,0,0
 3552,FK_VaccineLot_VaccineInventoryEvent,0,0,0
-2050,InfectionsHepatitisCFlag,0,0,0
+2048,InfectionsCytomegalovirusFlag,0,0,0
 3553,FK_PhysicalLocation_ReportedLocationPhysicalLocation,0,0,0
-2051,InfectionsHivAidsFlag,0,0,0
+2049,InfectionsHepatitisBFlag,0,0,0
 3554,FK_Program_HealthcareActivity,0,0,0
-549,Adverse Reaction Name,0,0,0
-2052,InfectionsHerpesSimplexVirusFlag,0,0,0
+2050,InfectionsHepatitisCFlag,0,0,0
 3555,FK_ReportedLocation_SiteReportedLocation,0,0,0
-2053,InfectionsRubellaFlag,0,0,0
+2051,InfectionsHivAidsFlag,0,0,0
 3556,FK_Site_SiteReportedLocation,0,0,0
-551,Observation Type Name,0,0,0
-2054,InfectionsBacterialVaginosisFlag,0,0,0
+2052,InfectionsHerpesSimplexVirusFlag,0,0,0
 3557,FK_Person_PersonReportedLocation,0,0,0
-2055,InfectionsGroupBStrepFlag,0,0,0
+2053,InfectionsRubellaFlag,0,0,0
 3558,FK_ImmunizationPriorityGroup_Immunization,0,0,0
-553,Weight Status ID,0,0,0
+549,Adverse Reaction Name,0,0,0
+2054,InfectionsBacterialVaginosisFlag,0,0,0
+2055,InfectionsGroupBStrepFlag,0,0,0
+551,Observation Type Name,0,0,0
 2056,InfectionsOtherFlag,0,0,0
 2057,InfectionsNoneFlag,0,0,0
-2058,InfectionsUnknownFlag,0,0,0
-2059,ObProceduresCervicalCerclageFlag,0,0,0
 3562,FK_Site_SitePhysicalLocation,0,0,0
-2060,ObProceduresTocolysisFlag,0,0,0
+553,Weight Status ID,0,0,0
+2058,InfectionsUnknownFlag,0,0,0
 3563,FK_Site_VaccineInventory,0,0,0
-558,Place ID,0,0,0
-2061,ObProceduresExternalCephalicVersionSuccessfulFlag,0,0,0
+2059,ObProceduresCervicalCerclageFlag,0,0,0
 3564,FK_Site_VaccineInventoryEvent,0,0,0
-2062,ObProceduresExternalCephalicVersionFailedFlag,0,0,0
+2060,ObProceduresTocolysisFlag,0,0,0
 3565,FK_Site_Encounter,0,0,0
-560,Protected Person Row Key,0,0,0
-2063,ObProceduresOtherFlag,0,0,0
-561,Related Person Row Key,0,0,0
-2064,ObProceduresNoneFlag,0,0,0
+2061,ObProceduresExternalCephalicVersionSuccessfulFlag,0,0,0
+2062,ObProceduresExternalCephalicVersionFailedFlag,0,0,0
 3567,FK_ReportedLocationType_PersonReportedLocation,0,0,0
-562,Relationship Type Name,0,0,0
+558,Place ID,0,0,0
+2063,ObProceduresOtherFlag,0,0,0
+2064,ObProceduresNoneFlag,0,0,0
+560,Protected Person Row Key,0,0,0
 2065,ObProceduresUnknownFlag,0,0,0
-563,Social Program ID,0,0,0
+561,Related Person Row Key,0,0,0
 2066,OnsetOfLaborPrematureRuptureOfMembranesFlag,0,0,0
-564,Person Last Name,0,0,0
+562,Relationship Type Name,0,0,0
 2067,OnsetOfLaborPrecipitousFlag,0,0,0
-565,Person First Name,0,0,0
+563,Social Program ID,0,0,0
 2068,OnsetOfLaborProlongedFlag,0,0,0
-566,Person Middle Initial,0,0,0
+564,Person Last Name,0,0,0
 2069,OnsetOfLaborOtherFlag,0,0,0
-567,Person SSN,0,0,0
+565,Person First Name,0,0,0
 2070,OnsetOfLaborNoneFlag,0,0,0
-568,Person Date of Birth,0,0,0
+566,Person Middle Initial,0,0,0
 2071,OnsetOfLaborUnknownFlag,0,0,0
+567,Person SSN,0,0,0
 2072,LaborDeliveryInductionOfLaborFlag,0,0,0
+568,Person Date of Birth,0,0,0
 2073,LaborDeliveryAugmentationOfLaborFlag,0,0,0
 2074,LaborDeliveryNonVertexPresentationFlag,0,0,0
-572,Person Place of Birth Physical Location ID,0,0,0
 2075,LaborDeliverySteroidsForFetalLungMaturationReceivedByMotherFlag,0,0,0
-573,Physical Location ID,0,0,0
 2076,LaborDeliveryAntibioticsReceivedByMotherDuringLaborFlag,0,0,0
-574,Physical Location Street Address,0,0,0
+572,Person Place of Birth Physical Location ID,0,0,0
 2077,LaborDeliveryClinicalChorioamnionitisFlag,0,0,0
-575,Physical Location City Name,0,0,0
+573,Physical Location ID,0,0,0
 2078,LaborDeliveryModerateHeavyMeconiumStainingOfAmnioticFluidFlag,0,0,0
-576,Physical Location State Abbreviation,0,0,0
+574,Physical Location Street Address,0,0,0
 2079,LaborDeliveryFetalIntoleranceOfLaborFlag,0,0,0
-577,Physical Location Zip Code,0,0,0
+575,Physical Location City Name,0,0,0
 2080,LaborDeliveryEpiduralOrSpinalAnesthesiaDuringLaborFlag,0,0,0
-578,Physical Location Zip Plus Four,0,0,0
+576,Physical Location State Abbreviation,0,0,0
 2081,LaborDeliveryOtherFlag,0,0,0
-579,Physical Location Latitude,0,0,0
+577,Physical Location Zip Code,0,0,0
 2082,LaborDeliveryNoneFlag,0,0,0
-580,Physical Location Longitude,0,0,0
+578,Physical Location Zip Plus Four,0,0,0
 2083,LaborDeliveryUnknownFlag,0,0,0
-581,Physical Location Geography,0,0,0
+579,Physical Location Latitude,0,0,0
 2084,MethodForcepsAttemptedFlag,0,0,0
-582,Geocoding Provider Name,0,0,0
+580,Physical Location Longitude,0,0,0
 2085,MethodVacuumExtractionAttemptedFlag,0,0,0
-583,Geocoding DateTime,0,0,0
+581,Physical Location Geography,0,0,0
 2086,FetalPresentationCephalicFlag,0,0,0
-584,Geocoding Accuracy Code,0,0,0
+582,Geocoding Provider Name,0,0,0
 2087,FetalPresentationBreechFlag,0,0,0
+583,Geocoding DateTime,0,0,0
 2088,FetalPresentationOtherFlag,0,0,0
+584,Geocoding Accuracy Code,0,0,0
 2089,FetalPresentationUnknownFlag,0,0,0
 2090,TrialOfLaborPriorToCesareanFlag,0,0,0
-588,Total Population Count,0,0,0
 2091,RouteMethodVaginalSpontaneousFlag,0,0,0
 2092,RouteMethodVaginalForcepsFlag,0,0,0
+588,Total Population Count,0,0,0
 2093,RouteMethodVaginalVacuumFlag,0,0,0
-591,Program Name,0,0,0
 2094,RouteMethodCesareanFlag,0,0,0
-592,Strategic Area ID,0,0,0
 2095,RouteMethodUnknownFlag,0,0,0
-593,Provider Last Name,0,0,0
+591,Program Name,0,0,0
 2096,MaternalMorbidityMaternalTransfusionFlag,0,0,0
-594,Provider First Name,0,0,0
+592,Strategic Area ID,0,0,0
 2097,MaternalMorbidity3RdOr4ThDegreePerinealLacerationFlag,0,0,0
-595,Provider Title,0,0,0
+593,Provider Last Name,0,0,0
 2098,MaternalMorbidityRupturedUterusFlag,0,0,0
+594,Provider First Name,0,0,0
 2099,MaternalMorbidityUnplannedHysterectomyFlag,0,0,0
-597,Public Health Outbreak ID,0,0,0
+595,Provider Title,0,0,0
 2100,MaternalMorbidityAdmissionToIntensiveCareFlag,0,0,0
-598,Public Health Case Name,0,0,0
 2101,MaternalMorbidityUnplannedOperatingRoomProcedureFlag,0,0,0
-599,Public Health Event Name,0,0,0
+597,Public Health Outbreak ID,0,0,0
 2102,MaternalMorbidityVbacFlag,0,0,0
-600,Public Health Event Start Date,0,0,0
+598,Public Health Case Name,0,0,0
 2103,MaternalMorbidityAbruptioPlacentaFlag,0,0,0
-601,Public Health Event End Date,0,0,0
+599,Public Health Event Name,0,0,0
 2104,MaternalMorbidityPlacentaPreviaFlag,0,0,0
-602,Public Health Event Data Source Name,0,0,0
+600,Public Health Event Start Date,0,0,0
 2105,MaternalMorbidityCephalopelvicDisproportionFlag,0,0,0
-603,Public Health Event Type Name,0,0,0
+601,Public Health Event End Date,0,0,0
 2106,MaternalMorbidityCordProlapseFlag,0,0,0
+602,Public Health Event Data Source Name,0,0,0
 2107,MaternalMorbidityOtherFlag,0,0,0
-605,Public Health Outbreak Name,0,0,0
+603,Public Health Event Type Name,0,0,0
 2108,MaternalMorbidityNoneFlag,0,0,0
-606,Race Name,0,0,0
 2109,MaternalMorbidityUnknownFlag,0,0,0
-607,Sex Name,0,0,0
+605,Public Health Outbreak Name,0,0,0
 2110,AbnormalConditionsAssistedVentilationFollowingDeliveryFlag,0,0,0
-608,Sex Abbreviation,0,0,0
+606,Race Name,0,0,0
 2111,AbnormalConditionsAssistedVentilationForOver6HoursFlag,0,0,0
-609,Site Name,0,0,0
+607,Sex Name,0,0,0
 2112,AbnormalConditionsSupplementalOxygenFlag,0,0,0
+608,Sex Abbreviation,0,0,0
 2113,AbnormalConditionsNicuAdmissionFlag,0,0,0
+609,Site Name,0,0,0
 2114,AbnormalConditionsSurfactantReplacementTherapyFlag,0,0,0
 2115,AbnormalConditionsAntibioticsForSuspectedNeonatalSepsisFlag,0,0,0
 2116,AbnormalConditionsSeizureFlag,0,0,0
@@ -4518,40 +4518,40 @@ String_Id,Data,Overflow,ConstantString,Row_Time_Stamp
 2120,AbnormalConditionsUnknownFlag,0,0,0
 2121,CongenitalAnomaliesAnencephalyFlag,0,0,0
 2122,CongenitalAnomaliesMeningomyeloceleSpinaBifidaFlag,0,0,0
-620,Statistical Age Group Name,0,0,0
 2123,CongenitalAnomaliesCyanoticCongenitalHeartDiseaseFlag,0,0,0
-621,Statistical Age Group Min Age,0,0,0
 2124,CongenitalAnomaliesCongenitalDiaphragmaticHerniaFlag,0,0,0
-622,Statistical Age Group Max Age,0,0,0
+620,Statistical Age Group Name,0,0,0
 2125,CongenitalAnomaliesOmphaloceleFlag,0,0,0
-623,Statistical Age Group Type Name,0,0,0
+621,Statistical Age Group Min Age,0,0,0
 2126,CongenitalAnomaliesGastroschisisFlag,0,0,0
-624,Strategic Area Name,0,0,0
+622,Statistical Age Group Max Age,0,0,0
 2127,CongenitalAnomaliesLimbReductionDefectFlag,0,0,0
-625,Survey Question ID,0,0,0
+623,Statistical Age Group Type Name,0,0,0
 2128,CongenitalAnomaliesCleftLipFlag,0,0,0
+624,Strategic Area Name,0,0,0
 2129,CongenitalAnomaliesCleftPalateFlag,0,0,0
+625,Survey Question ID,0,0,0
 2130,CongenitalAnomaliesDownSyndromeFlag,0,0,0
 2131,CongenitalAnomaliesDownSyndromeConfirmedFlag,0,0,0
 2132,CongenitalAnomaliesDownSyndromePendingFlag,0,0,0
 2133,CongenitalAnomaliesOtherChromosomalDisorderFlag,0,0,0
-631,Vaccine Name,0,0,0
 2134,CongenitalAnomaliesOtherChromosomalDisorderConfirmedFlag,0,0,0
-632,Vaccine Abbreviation,0,0,0
 2135,CongenitalAnomaliesOtherChromosomalDisorderPendingFlag,0,0,0
-633,Vaccine Administration Route Name,0,0,0
+631,Vaccine Name,0,0,0
 2136,CongenitalAnomaliesHypospadiasFlag,0,0,0
-634,Vaccine Inventory Date,0,0,0
+632,Vaccine Abbreviation,0,0,0
 2137,CongenitalAnomaliesUrogenitalAnomaliesFlag,0,0,0
-635,Vaccine Quantity,0,0,0
+633,Vaccine Administration Route Name,0,0,0
 2138,CongenitalAnomaliesCirculatoryRespiratoryAnomaliesFlag,0,0,0
+634,Vaccine Inventory Date,0,0,0
 2139,CongenitalAnomaliesMusculoskeletalAnomaliesFlag,0,0,0
+635,Vaccine Quantity,0,0,0
 2140,CongenitalAnomaliesNotStatedFlag,0,0,0
-638,Vaccine Source ID,0,0,0
 2141,CongenitalAnomaliesUnknownFlag,0,0,0
 2142,PK171,0,0,0
-640,VaccineCost,0,0,0
+638,Vaccine Source ID,0,0,0
 2143,ThridTrimesterDrinksPerWeekCount,0,0,0
+640,VaccineCost,0,0,0
 641,Vaccine Lot Number Code,0,0,0
 642,Vaccine Lot Manufacturer Name,0,0,0
 643,Vaccine Lot Expiration Date,0,0,0
@@ -4616,244 +4616,244 @@ Logical Data Model (DPH / EMC 2009)",0,0,0
 3842,IDX_PK_Birth1,0,0,0
 3845,IDX_PK_PersonRelationship1,0,0,0
 3849,IDX_PK_ReportedLocation1,0,0,0
-844,SSUpdtTrigLib,0,0,0
 3850,IDX_PK_Person1,0,0,0
-845,"",1,0,0
 3851,IDX_PK_ReportedLocationPhysicalLocation1,0,0,0
-846,SSDelTrigLib,0,0,0
 3852,IDX_PK_ReportedLocationType1,0,0,0
-847,"",1,0,0
 3853,IDX_PK_SocioeconomicStatus1,0,0,0
-848,SSInsTrigLib,0,0,0
+844,SSUpdtTrigLib,0,0,0
 3854,IDX_PK_PhysicalLocationGeoRegion1,0,0,0
-849,"",1,0,0
+845,"",1,0,0
 3855,IDX_PK_SiteReportedLocation1,0,0,0
-850,SSUpdtTrigger,0,0,0
+846,SSDelTrigLib,0,0,0
 3856,IDX_PK_PhysicalLocation1,0,0,0
-851,"",1,0,0
+847,"",1,0,0
 3857,IDX_PK_PopulationStatistics1,0,0,0
-852,SSDelTrigger,0,0,0
-853,"",1,0,0
+848,SSInsTrigLib,0,0,0
+849,"",1,0,0
 3859,IDX_PK_Program1,0,0,0
-854,SSInsTrigger,0,0,0
+850,SSUpdtTrigger,0,0,0
 3860,IDX_PK_Provider1,0,0,0
-855,"",1,0,0
+851,"",1,0,0
 3861,IDX_PK_PublicHealthCase1,0,0,0
+852,SSDelTrigger,0,0,0
 3862,IDX_PK_PublicHealthEvent1,0,0,0
+853,"",1,0,0
+854,SSInsTrigger,0,0,0
 3864,IDX_PK_PublicHealthOutbreak1,0,0,0
+855,"",1,0,0
 3865,IDX_PK_Race1,0,0,0
 3866,IDX_PK_Sex1,0,0,0
-861,PublicHealthCase,0,0,0
 3867,IDX_PK_Site1,0,0,0
-863,PublicHealthCaseName,0,0,0
 3869,IDX_PK_StatisticalAgeGroup1,0,0,0
-864,PersonRowKey,0,0,0
 3870,IDX_PK_StrategicArea1,0,0,0
+861,PublicHealthCase,0,0,0
 3871,IDX_PK_Vaccine1,0,0,0
 3872,IDX_PK_VaccineContraindication1,0,0,0
-867,PublicHealthOutbreak,0,0,0
+863,PublicHealthCaseName,0,0,0
 3873,IDX_PK_VaccineInventory1,0,0,0
-868,PublicHealthOutbreakName,0,0,0
+864,PersonRowKey,0,0,0
 3874,IDX_PK_VaccineInventoryEvent1,0,0,0
 3875,IDX_PK_VaccineLot1,0,0,0
+867,PublicHealthOutbreak,0,0,0
 3877,IDX_PK_ObservedReportableDisease1,0,0,0
-872,EncounterDate,0,0,0
-873,EncounterTypeName,0,0,0
+868,PublicHealthOutbreakName,0,0,0
 3880,IDX_PK_Language1,0,0,0
-875,SiteRowKey,0,0,0
 3881,IDX_PK_GeographicRegionType1,0,0,0
+872,EncounterDate,0,0,0
 3882,IDX_PK_SitePhysicalLocation1,0,0,0
+873,EncounterTypeName,0,0,0
+875,SiteRowKey,0,0,0
 878,PopulationStatistics,0,0,0
 880,TotalPopulationCount,0,0,0
 882,SexID,0,0,0
 890,AntigenName,0,0,0
 892,AntigenContraindication,0,0,0
-895,RaceName,0,0,0
-896,SexName,0,0,0
 3902,Organization,0,0,0
-897,SexAbbreviation,0,0,0
 3903,VitalSignsObservationDateTime,0,0,0
 3904,OrganizationRowKey,0,0,0
+895,RaceName,0,0,0
 3905,OrganizationName,0,0,0
+896,SexName,0,0,0
+897,SexAbbreviation,0,0,0
 3912,IDX_PersonVitalSigns1,0,0,0
 907,StatisticalAgeGroup,0,0,0
 908,StatisticalAgeGroupName,0,0,0
-909,StatisticalAgeGroupMinAge,0,0,0
-910,StatisticalAgeGroupMaxAge,0,0,0
-911,StatisticalAgeGroupTypeName,0,0,0
 3918,IncomeLevel,0,0,0
-913,DataSource,0,0,0
+909,StatisticalAgeGroupMinAge,0,0,0
 3919,IncomeLevelAmount,0,0,0
-914,DataSourceName,0,0,0
+910,StatisticalAgeGroupMaxAge,0,0,0
 3920,IncomeLevelFrequencyName,0,0,0
+911,StatisticalAgeGroupTypeName,0,0,0
 3922,View1,0,0,0
+913,DataSource,0,0,0
+914,DataSourceName,0,0,0
 3924,PK185,0,0,0
 920,DiagnosisCode,0,0,0
-922,DiagnosisCodeDescription,0,0,0
-923,DiagnosisCodeName,0,0,0
 3930,Diagnosis,0,0,0
 3931,DiagnosisRowKey,0,0,0
-926,EducationLevel,0,0,0
+922,DiagnosisCodeDescription,0,0,0
 3932,DiagnosisCodePriorityNumber,0,0,0
-928,EducationLevelName,0,0,0
+923,DiagnosisCodeName,0,0,0
 3935,IDX_PK_DiagnosisCode1_1,0,0,0
-930,EthnicityName,0,0,0
+926,EducationLevel,0,0,0
 3936,ProcedureRowKey,0,0,0
 3937,ProcedureTypeName,0,0,0
+928,EducationLevelName,0,0,0
 3938,ProcedureCode,0,0,0
-933,ExternalSystemName,0,0,0
 3939,ProcedureCodeName,0,0,0
+930,EthnicityName,0,0,0
 3940,ProcedurePriorityNumber,0,0,0
 3941,ProcedureCategoryName,0,0,0
 3942,ProcedureDescription,0,0,0
+933,ExternalSystemName,0,0,0
 3952,ExternalSystemActiveFlag,0,0,0
 3953,ExternalSystemBusinessKey,0,0,0
 3954,ExternalSystemRowStartDate,0,0,0
 3955,ExternalSystemRowEndDate,0,0,0
 3956,ExternalSystem,0,0,0
-951,GeographicRegion,0,0,0
 3957,Standard Domains,0,0,0
 3958,Audit,0,0,0
 3959,SCD,0,0,0
 3960,Address,0,0,0
+951,GeographicRegion,0,0,0
 3961,Numbers,0,0,0
 3962,VaccineAntigenRowKey,0,0,0
 3963,PersonRelationshipRowKey,0,0,0
 3964,GeographicRegionName,0,0,0
 3965,GeographicRegionAbbreviation,0,0,0
-960,HealthcareActivity,0,0,0
 3966,GeographicRegionCode,0,0,0
-961,HealthcareActivityTypeName,0,0,0
 3967,GeographicRegionGeography,0,0,0
-962,HealthcareActivityStartDate,0,0,0
 3968,GeographicRegionCenterLatitude,0,0,0
-963,HealthcareActivityEndDate,0,0,0
 3969,GeographicRegionCenterLongitude,0,0,0
-964,HealthcareActivityHistoricalFlag,0,0,0
+960,HealthcareActivity,0,0,0
 3970,GeographicRegionCenterGeography,0,0,0
+961,HealthcareActivityTypeName,0,0,0
 3971,PhysicalLocationGeoRegionRowKey,0,0,0
+962,HealthcareActivityStartDate,0,0,0
 3972,SitePhysicalLocationRowKey,0,0,0
+963,HealthcareActivityEndDate,0,0,0
 3973,OrganizationDescription,0,0,0
+964,HealthcareActivityHistoricalFlag,0,0,0
 3974,ObservationStatusName,0,0,0
-969,ProviderTitle,0,0,0
 3975,ObservationNormalIndicatorCode,0,0,0
 3976,ReportedLocationIncompleteFlag,0,0,0
 3977,ReportedLocationLevelOfDetailCode,0,0,0
+969,ProviderTitle,0,0,0
 3979,EntityExternalSystemRowKey,0,0,0
-974,HealthcareActivityRelationship,0,0,0
-975,HealthcareActivityRelationshipTypeName,0,0,0
 3981,ExternalSystemRowKeyInteger,0,0,0
 3982,EntityTypeName,0,0,0
 3983,ExternalSystemRowKeyString,0,0,0
-978,ImmunizationContraindicationName,0,0,0
+974,HealthcareActivityRelationship,0,0,0
 3984,ExternalSystemSchemaName,0,0,0
-979,VaccineAdministrationSiteName,0,0,0
+975,HealthcareActivityRelationshipTypeName,0,0,0
 3985,ExternalSystemDatabaseName,0,0,0
-980,VaccineDosageAmount,0,0,0
 3986,ExternalSystemRowKeyColumnName,0,0,0
-981,VaccineDoseNumber,0,0,0
 3987,ExternalSystemRecordStartDate,0,0,0
+978,ImmunizationContraindicationName,0,0,0
 3988,ExternalSystemRecordEndDate,0,0,0
+979,VaccineAdministrationSiteName,0,0,0
 3989,ExternalSystemRecordActiveFlag,0,0,0
-984,ImmunizationPriorityGroup,0,0,0
+980,VaccineDosageAmount,0,0,0
 3990,Integer,0,0,0
+981,VaccineDoseNumber,0,0,0
+984,ImmunizationPriorityGroup,0,0,0
 985,ImmunizationPriorityGroupName,0,0,0
 987,SiteName,0,0,0
 990,VaccinePreventableFlag,0,0,0
 993,ObservedImmunizationAdverseReaction,0,0,0
-994,AdverseReactionName,0,0,0
-996,ObservedImmunizationContraindication,0,0,0
 4003,EntityImportGUID,0,0,0
+994,AdverseReactionName,0,0,0
 4004,ExternalSystemRecordLastUpdatedDate,0,0,0
 4005,EntityChecksumColumnListText,0,0,0
-1002,PersonYearofBirth,0,0,0
+996,ObservedImmunizationContraindication,0,0,0
 4008,DataWarehouseTableTypeName,0,0,0
 4009,EntityFinalTableName,0,0,0
 4010,Vitals,0,0,0
 4011,TotalChargesAmount,0,0,0
+1002,PersonYearofBirth,0,0,0
 4012,Amount,0,0,0
-1007,PersonGeoRegion,0,0,0
 4014,FinancialTransaction,0,0,0
 4016,DiagnosisCode_1,0,0,0
-1012,PersonReportedLocation,0,0,0
+1007,PersonGeoRegion,0,0,0
 4018,IDX_PK_DiagnosisCode1_2,0,0,0
 4019,SubstanceAdministration,0,0,0
 4020,SubstanceAdministrationTypeName,0,0,0
 4021,SubstanceAdministrationDoseAmount,0,0,0
+1012,PersonReportedLocation,0,0,0
 4022,SubstanceAdministrationRateAmount,0,0,0
 4023,SubstanceAdministrationUnitsName,0,0,0
 4025,VitalSignsPulseNumber,0,0,0
 4026,VitalSignsTemperatureNumber,0,0,0
-1021,PersonRelationship,0,0,0
 4027,VitalSignsBloodPressureSystolicNumber,0,0,0
-1022,RelationshipTypeName,0,0,0
 4028,VitalSignsBloodPressureDiastolicNumber,0,0,0
 4029,VitalSignsHeightInchesNumber,0,0,0
 4030,VitalSignsCalculatedBMINumber,0,0,0
+1021,PersonRelationship,0,0,0
 4031,Physical,0,0,0
+1022,RelationshipTypeName,0,0,0
 4032,PK261,0,0,0
 4033,FinancialTransactionTotalChargesAmount,0,0,0
 4034,FinancialTransactionTypeName,0,0,0
-1029,PhysicalLocation,0,0,0
 4035,DataSourceID,0,0,0
-1031,PhysicalLocationStreetAddress,0,0,0
-1032,PhysicalLocationCityName,0,0,0
 4038,DPH Data Warehouse.Physical - 2_DD,0,0,0
-1033,PhysicalLocationStateAbbreviation,0,0,0
+1029,PhysicalLocation,0,0,0
 4039,DPH Data Warehouse.Physical - 2.dm1,0,0,0
-1034,PhysicalLocationZipCode,0,0,0
 4040,VitalSigns,0,0,0
-1035,PhysicalLocationZipPlusFour,0,0,0
+1031,PhysicalLocationStreetAddress,0,0,0
 4041,HealthcareActivityID,0,0,0
-1036,PhysicalLocationLatitude,0,0,0
+1032,PhysicalLocationCityName,0,0,0
 4042,IDX_PersonVitalSigns,0,0,0
-1037,PhysicalLocationLongitude,0,0,0
+1033,PhysicalLocationStateAbbreviation,0,0,0
 4043,RefHealthcareActivity352,0,0,0
-1038,PhysicalLocationGeography,0,0,0
+1034,PhysicalLocationZipCode,0,0,0
 4044,AntigenID,0,0,0
-1039,GeocodingProviderName,0,0,0
+1035,PhysicalLocationZipPlusFour,0,0,0
 4045,ReportableDiseaseID,0,0,0
-1040,GeocodingDateTime,0,0,0
+1036,PhysicalLocationLatitude,0,0,0
 4046,ImmunizationContraindicationID,0,0,0
-1041,GeocodingAccuracyCode,0,0,0
+1037,PhysicalLocationLongitude,0,0,0
 4047,BirthChildsSexID,0,0,0
+1038,PhysicalLocationGeography,0,0,0
 4048,DiagnosisID,0,0,0
-1043,PersonLastName,0,0,0
+1039,GeocodingProviderName,0,0,0
 4049,RefHealthcareActivity349,0,0,0
-1044,PersonFirstName,0,0,0
+1040,GeocodingDateTime,0,0,0
 4050,EducationLevelID,0,0,0
-1045,PersonMiddleInitial,0,0,0
+1041,GeocodingAccuracyCode,0,0,0
 4051,EncounterID,0,0,0
-1046,PersonSSN,0,0,0
 4052,SiteID,0,0,0
-1047,PersonDateofBirth,0,0,0
+1043,PersonLastName,0,0,0
 4053,PersonID,0,0,0
+1044,PersonFirstName,0,0,0
 4054,PublicHealthEventID,0,0,0
+1045,PersonMiddleInitial,0,0,0
 4055,RefPerson301,0,0,0
+1046,PersonSSN,0,0,0
 4056,RefPublicHealthEvent351,0,0,0
-1051,PhysicalLocationGeoRegion,0,0,0
+1047,PersonDateofBirth,0,0,0
 4057,EthnicityID,0,0,0
 4058,EntityExternalSystemID,0,0,0
 4059,ExternalSystemIDInteger,0,0,0
-1054,ProgramName,0,0,0
 4060,ExternalSystemIDString,0,0,0
-1055,StrategicAreaID,0,0,0
+1051,PhysicalLocationGeoRegion,0,0,0
 4061,ExternalSystemIDColumnName,0,0,0
-1056,PublicHealthEvent,0,0,0
 4062,PayerSourceID,0,0,0
-1057,PublicHealthEventName,0,0,0
 4063,RefHealthcareActivity353,0,0,0
-1058,PublicHealthEventStartDate,0,0,0
+1054,ProgramName,0,0,0
 4064,GeographicRegionID,0,0,0
-1059,PublicHealthEventEndDate,0,0,0
+1055,StrategicAreaID,0,0,0
 4065,GeographicRegionTypeID,0,0,0
-1060,PublicHealthEventDataSourceName,0,0,0
+1056,PublicHealthEvent,0,0,0
 4066,ProgramID,0,0,0
-1061,PublicHealthEventTypeName,0,0,0
+1057,PublicHealthEventName,0,0,0
 4067,ProviderID,0,0,0
+1058,PublicHealthEventStartDate,0,0,0
 4068,RefProvider355,0,0,0
+1059,PublicHealthEventEndDate,0,0,0
 4069,RelatedHealthcareActivityID,0,0,0
+1060,PublicHealthEventDataSourceName,0,0,0
 4070,HouseholdSizeID,0,0,0
+1061,PublicHealthEventTypeName,0,0,0
 4071,ImmunizationID,0,0,0
 4072,VaccineLotID,0,0,0
 4073,ImmunizationPriorityGroupID,0,0,0
@@ -4863,43 +4863,43 @@ Logical Data Model (DPH / EMC 2009)",0,0,0
 4077,ObservationID,0,0,0
 4078,ObservedImmunizationAdverseReactionID,0,0,0
 4079,ObservedImmunizationContraindicationID,0,0,0
-1074,StrategicArea,0,0,0
 4080,ObservedReportableDiseaseID,0,0,0
-1075,StrategicAreaName,0,0,0
 4081,PublicHealthCaseID,0,0,0
 4082,OrganizationID,0,0,0
-1077,VaccineName,0,0,0
 4083,RaceID,0,0,0
-1078,VaccineAbbreviation,0,0,0
+1074,StrategicArea,0,0,0
 4084,PrimaryLanguageID,0,0,0
-1079,VaccineAdministrationRouteName,0,0,0
+1075,StrategicAreaName,0,0,0
 4085,PovertyLevelID,0,0,0
 4086,RefEthnicity285,0,0,0
+1077,VaccineName,0,0,0
 4087,RefSex286,0,0,0
-1082,VaccineContraindication,0,0,0
+1078,VaccineAbbreviation,0,0,0
 4088,RefEducationLevel291,0,0,0
+1079,VaccineAdministrationRouteName,0,0,0
 4089,RefIncomeLevel292,0,0,0
-1084,VaccineInventory,0,0,0
 4090,RefPovertyLevel293,0,0,0
-1085,VaccineInventoryDate,0,0,0
 4091,RefHouseholdSize294,0,0,0
-1086,VaccineQuantity,0,0,0
+1082,VaccineContraindication,0,0,0
 4092,RefLanguage307,0,0,0
 4093,RefRace284,0,0,0
-1088,VaccineLot,0,0,0
+1084,VaccineInventory,0,0,0
 4094,RefPerson296,0,0,0
-1089,VaccineLotNumberCode,0,0,0
+1085,VaccineInventoryDate,0,0,0
 4095,PersonRelationshipID,0,0,0
-1090,VaccineLotManufacturerName,0,0,0
+1086,VaccineQuantity,0,0,0
 4096,RelatedPersonID,0,0,0
-1091,VaccineLotExpirationDate,0,0,0
 4097,RefPerson298,0,0,0
+1088,VaccineLot,0,0,0
 4098,RefPerson297,0,0,0
-1093,VaccineInventoryEvent,0,0,0
+1089,VaccineLotNumberCode,0,0,0
 4099,PersonReportedLocationID,0,0,0
+1090,VaccineLotManufacturerName,0,0,0
 4100,ReportedLocationID,0,0,0
+1091,VaccineLotExpirationDate,0,0,0
 4101,ReportedLocationTypeID,0,0,0
 4102,PhysicalLocationID,0,0,0
+1093,VaccineInventoryEvent,0,0,0
 4103,PhysicalLocationGeoRegionID,0,0,0
 4104,StatisticalAgeGroupID,0,0,0
 4105,ProcedureID,0,0,0
@@ -4915,14 +4915,14 @@ Logical Data Model (DPH / EMC 2009)",0,0,0
 4115,VaccineID,0,0,0
 4116,VaccineAntigenID,0,0,0
 4117,VaccineInventoryEventID,0,0,0
-4118,"DRAFT:
+4119,"DRAFT:
 
 Denver Public Health 
 Data Warehouse 
 Physical Data Model (DPH / EMC 2010)
 Version 1.6
 
-Rob - change",0,0,0
+Rob - change#2",0,0,0
 1122,LanguageName,0,0,0
 1124,GeographicRegionType,0,0,0
 1125,GeographicRegionTypeName,0,0,0
@@ -4960,60 +4960,60 @@ Rob - change",0,0,0
 1178,ProviderRowKey,0,0,0
 1179,PublicHealthEventRowKey,0,0,0
 1180,GeographicRegionRowKey,0,0,0
-1181,DataSourceRowKey,0,0,0
-1182,SexRowKey,0,0,0
 2685,ReportedLocation,0,0,0
+1181,DataSourceRowKey,0,0,0
 2686,ReportedLocationPhysicalLocation,0,0,0
-1184,StatisticalAgeGroupRowKey,0,0,0
+1182,SexRowKey,0,0,0
 2687,ReportedLocationType,0,0,0
-1185,RaceRowKey,0,0,0
 2688,SocioeconomicStatus,0,0,0
+1184,StatisticalAgeGroupRowKey,0,0,0
+1185,RaceRowKey,0,0,0
 1186,EthnicityRowKey,0,0,0
 1187,GeographicRegionTypeRowKey,0,0,0
 1188,AntigenRowKey,0,0,0
 1189,VaccineRowKey,0,0,0
 1190,ImmunizationContraindicationRowKey,0,0,0
 1191,HealthcareActivityRowKey,0,0,0
-1195,EducationLevelRowKey,0,0,0
 2698,ObservationRowKey,0,0,0
 2699,ObservationKeyNumber,0,0,0
+1195,EducationLevelRowKey,0,0,0
 2700,ObservationStatus,0,0,0
 2701,ObservationNormalIndicator,0,0,0
-1201,ProgramRowKey,0,0,0
-1202,VaccineLotRowKey,0,0,0
 2705,PersonExternalSystemRowKey,0,0,0
-1203,ImmunizationPriorityGroupRowKey,0,0,0
+1201,ProgramRowKey,0,0,0
 2706,ReportedLocationRowKey,0,0,0
+1202,VaccineLotRowKey,0,0,0
 2707,ReportedLocationTypeRowKey,0,0,0
+1203,ImmunizationPriorityGroupRowKey,0,0,0
 1206,LanguageRowKey,0,0,0
 2711,BIT,0,0,0
-1209,PhysicalLocationRowKey,0,0,0
 2712,InventoryStatusName,0,0,0
+1209,PhysicalLocationRowKey,0,0,0
 1211,VaccineInventoryEventRowKey,0,0,0
 1213,Protected,0,0,0
 2718,ReportedLocationStreetAddress,0,0,0
 2719,ReportedLocationCityName,0,0,0
 2720,ReportedLocationStateName,0,0,0
-1218,VaccineAntigen,0,0,0
 2721,ReportedLocationCountyName,0,0,0
-1219,DT,0,0,0
 2722,ReportedLocationZipCode,0,0,0
-1220,TI,0,0,0
+1218,VaccineAntigen,0,0,0
 2723,ReportedLocationZipCodePlusFour,0,0,0
-1221,RowHash,0,0,0
+1219,DT,0,0,0
 2724,ReportedLocationLatitude,0,0,0
+1220,TI,0,0,0
 2725,ReportedLocationLongitude,0,0,0
+1221,RowHash,0,0,0
 1223,GeoRegionName,0,0,0
 1224,GeoRegionAbbreviation,0,0,0
 1225,GeoRegionCode,0,0,0
 2730,ReportedLocationTypeName,0,0,0
-1228,PersonStartDateAge,0,0,0
 2731,ReportedLocationName,0,0,0
-1229,ImmunizationRowKey,0,0,0
+1228,PersonStartDateAge,0,0,0
 2733,SocioeconomicStatusRowKey,0,0,0
-1231,InquiryRowKey,0,0,0
+1229,ImmunizationRowKey,0,0,0
 2734,SocioeconomicStatusName,0,0,0
 2735,SocioeconomicStatusTypeName,0,0,0
+1231,InquiryRowKey,0,0,0
 1235,ObservedImmunizationAdverseReactionRowKey,0,0,0
 1238,ObservedImmunizationContraindicationRowKey,0,0,0
 1241,PersonMiddleName,0,0,0
@@ -5022,8 +5022,8 @@ Rob - change",0,0,0
 1245,PersonCurrentImportGUID,0,0,0
 1246,UID,0,0,0
 1247,PersonActiveFlag,0,0,0
-1262,PersonReportedLocationRowKey,0,0,0
 2765,GGR,0,0,0
+1262,PersonReportedLocationRowKey,0,0,0
 1275,SiteTypeName,0,0,0
 1277,SiteActive,0,0,0
 1279,VaccineInventoryIncrement,0,0,0
@@ -5033,8 +5033,8 @@ Rob - change",0,0,0
 1283,DF__VaccineIn__Vacci__59FA5E80,0,0,0
 1284,VaccineInventoryNetChange,0,0,0
 1285,DF__VaccineIn__Vacci__5AEE82B9,0,0,0
-1286,VaccineAvailableQuantity,0,0,0
 2790,ObservationNormalRangeUnitOfMeasure,0,0,0
+1286,VaccineAvailableQuantity,0,0,0
 1288,VaccineInventoryEventDate,0,0,0
 1289,VaccineSourceName,0,0,0
 1290,VaccineInventoryEventTypeName,0,0,0
@@ -5059,10 +5059,10 @@ Rob - change",0,0,0
 2924,SiteReportedLocation,0,0,0
 2925,SiteReportedLocationRowKey,0,0,0
 1424,DeathAcmePlaceCode,0,0,0
-1425,DeathAutopsyFlag,0,0,0
-1426,DeathAutopsyFindingsFlag,0,0,0
 2929,StrategicAreaRowKey,0,0,0
+1425,DeathAutopsyFlag,0,0,0
 2930,ReportedLocationPhysicalLocationRowKey,0,0,0
+1426,DeathAutopsyFindingsFlag,0,0,0
 1435,BirthCertificateNumber,0,0,0
 1436,BirthPluralityNumber,0,0,0
 1437,BirthOrderNumber,0,0,0
@@ -9685,7 +9685,7 @@ StringUsage_Id,UniqueObject_Id,StringUsageType_Id,String_Id,Row_Time_Stamp
 17286,34310,14,1145,0
 5343,18533,125,649,0
 17287,34310,15,1186,0
-5344,18533,126,4118,0
+5344,18533,126,4119,0
 17288,34312,14,49,0
 5345,18544,39,1808,0
 17289,34312,15,49,0
@@ -10975,7 +10975,7 @@ Identity_Value_ID,Table_Name,Column_Name,Next_Valid_Value,Global_User_ID,Row_Tim
 13,Bound_Dictionary_Object,Bound_Dictionary_Object_ID,4564,0,0
 14,CheckConstraints,CheckConstraints_ID,1,0,0
 15,Circular_Layout,Circular_Layout_ID,59,0,0
-16,ColorDefault,ColorDefault_ID,14597,0,0
+16,ColorDefault,ColorDefault_ID,14599,0,0
 17,Column_Usage,Column_Usage_ID,12,0,0
 18,Components_Layout,Components_Layout_ID,59,0,0
 19,Configuration_Option,Configuration_Option_ID,1,0,0
@@ -12703,7 +12703,7 @@ Storage_Object_ID,Model_ID,Owner_ID,Name_ID,Description_ID,Value_ID,Type,NSTFlag
 
 Shape
 Shape_ID,Model_ID,Name_ID,Value_ID,Type,NSTFlag,CompareFlags,Global_User_ID
-8,15,649,4118,1,0,0,18533
+8,15,649,4119,1,0,0,18533
 
 Shape_Edge
 Shape_Edge_ID,Model_ID,Parent_MetaTable_ID,Parent_Table_Row_ID,Child_MetaTable_ID,Child_Table_Row_ID,Name_ID,VerbPhraseId,InversePhraseId,NSTFlag,Global_User_ID
