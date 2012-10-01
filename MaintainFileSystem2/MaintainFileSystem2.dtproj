@@ -36,12 +36,12 @@
     </Configuration>
   </Configurations>
   <DTSPackages>
-    <DtsPackage FormatVersion="0">
+    <DtsPackage FormatVersion="3">
       <Name>ArchiveMonthlyFiles.dtsx</Name>
       <FullPath>ArchiveMonthlyFiles.dtsx</FullPath>
       <References />
     </DtsPackage>
-    <DtsPackage FormatVersion="0">
+    <DtsPackage FormatVersion="3">
       <Name>MaintainFileSystem.dtsx</Name>
       <FullPath>MaintainFileSystem.dtsx</FullPath>
       <References />
