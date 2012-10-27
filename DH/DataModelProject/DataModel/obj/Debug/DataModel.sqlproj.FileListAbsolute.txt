@@ -1,9 +1,0 @@
-c:\users\admin\documents\visual studio 2012\Projects\DataModel\DataModel\bin\Debug\DataModel.dacpac
-c:\users\admin\documents\visual studio 2012\Projects\DataModel\DataModel\obj\Debug\Model.xml
-c:\users\admin\documents\visual studio 2012\Projects\DataModel\DataModel\obj\Debug\refactor.xml
-c:\users\admin\documents\visual studio 2012\Projects\DataModel\DataModel\obj\Debug\postdeploy.sql
-c:\users\admin\documents\visual studio 2012\Projects\DataModel\DataModel\obj\Debug\predeploy.sql
-c:\users\admin\documents\visual studio 2012\Projects\DataModel\DataModel\obj\Debug\DataModel.dll
-c:\users\admin\documents\visual studio 2012\Projects\DataModel\DataModel\obj\Debug\DataModel.pdb
-C:\Users\admin\Documents\Visual Studio 2012\Projects\DataModel\DataModel\bin\Debug\DataModel.dll
-C:\Users\admin\Documents\Visual Studio 2012\Projects\DataModel\DataModel\bin\Debug\DataModel.pdb
